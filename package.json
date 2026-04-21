@@ -9,7 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.90.0",
+    "@supabase/supabase-js": "^2.104.0",
+    "@upstash/redis": "^1.37.0",
+    "bullmq": "^5.75.2",
     "next": "16.2.4",
+    "node": "^24.15.0",
+    "openai": "^6.34.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
